@@ -36,5 +36,4 @@ git clone https://github.com/abhishekhubs/CODSOFT-task-2.git
 cd CODSOFT-task-2
 pip install -r requirements.txt
 python movie_rating_prediction.py
-pip install -r requirements.txt
 
