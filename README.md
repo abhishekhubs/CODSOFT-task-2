@@ -11,17 +11,6 @@ The project covers:
 
 ---
 
-## 📂 Table of Contents  
-- [Introduction](#-introduction)  
-- [Project Workflow](#-project-workflow)  
-- [Features](#-features)  
-- [Installation](#-installation)  
-- [Usage](#-usage)  
-- [Dependencies](#-dependencies)  
-- [Examples](#-examples)  
-- [Contributors](#-contributors)  
-- [License](#-license)  
-
 ---
 
 ## 🔄 Project Workflow  
@@ -48,3 +37,4 @@ cd CODSOFT-task-2
 pip install -r requirements.txt
 python movie_rating_prediction.py
 pip install -r requirements.txt
+
